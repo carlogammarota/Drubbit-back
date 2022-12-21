@@ -87,6 +87,30 @@
                "squareUrl": "https://materialesbasualdo.com.ar/uploads/products-images/c420e255a39ed4e3fde60993b0ad0742db65ecb6_square.jpg",
                "mediumUrl": "https://materialesbasualdo.com.ar/uploads/products-images/c420e255a39ed4e3fde60993b0ad0742db65ecb6_medium.jpg",
                "bigUrl": "https://materialesbasualdo.com.ar/uploads/products-images/c420e255a39ed4e3fde60993b0ad0742db65ecb6_big.jpg"
+            },
+            {
+               "id": 2016,
+               "pos": 0,
+               "originalUrl": "https://laforestamaderas.com.ar/wp-content/uploads/2019/02/amoladora-angular-stgs8115-stanley-2.jpg",
+               "squareUrl": "https://laforestamaderas.com.ar/wp-content/uploads/2019/02/amoladora-angular-stgs8115-stanley-2.jpg",
+               "mediumUrl": "https://laforestamaderas.com.ar/wp-content/uploads/2019/02/amoladora-angular-stgs8115-stanley-2.jpg",
+               "bigUrl": "https://laforestamaderas.com.ar/wp-content/uploads/2019/02/amoladora-angular-stgs8115-stanley-2.jpg"
+            },
+            {
+               "id": 2017,
+               "pos": 0,
+               "originalUrl": "https://laforestamaderas.com.ar/wp-content/uploads/2019/02/amoladora-angular-stgs8115-stanley-3.jpg",
+               "squareUrl": "https://laforestamaderas.com.ar/wp-content/uploads/2019/02/amoladora-angular-stgs8115-stanley-3.jpg",
+               "mediumUrl": "https://laforestamaderas.com.ar/wp-content/uploads/2019/02/amoladora-angular-stgs8115-stanley-3.jpg",
+               "bigUrl": "https://laforestamaderas.com.ar/wp-content/uploads/2019/02/amoladora-angular-stgs8115-stanley-3.jpg"
+            },
+            {
+               "id": 2018,
+               "pos": 0,
+               "originalUrl": "https://laforestamaderas.com.ar/wp-content/uploads/2019/02/amoladora-angular-stgs8115-stanley-4.jpg",
+               "squareUrl": "https://laforestamaderas.com.ar/wp-content/uploads/2019/02/amoladora-angular-stgs8115-stanley-4.jpg",
+               "mediumUrl": "https://laforestamaderas.com.ar/wp-content/uploads/2019/02/amoladora-angular-stgs8115-stanley-4.jpg",
+               "bigUrl": "https://laforestamaderas.com.ar/wp-content/uploads/2019/02/amoladora-angular-stgs8115-stanley-4.jpg"
             }
          ],
          "attrs": [],
